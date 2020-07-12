@@ -1,5 +1,7 @@
 # DockerPythonFlask
-Initialize Repository
+- Docker File
+- Python file containing flask web service
+- Git opearations with images
 ![Alt text](https://github.com/VaibhavRangare/DockerPythonFlask/blob/master/images/Untitled0.jpg "Optional Title")
 ![Alt text](https://github.com/VaibhavRangare/DockerPythonFlask/blob/master/images/Untitled1.jpg "Optional Title")
 ![Alt text](https://github.com/VaibhavRangare/DockerPythonFlask/blob/master/images/Untitled2.jpg "Optional Title")
